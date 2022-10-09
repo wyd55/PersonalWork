@@ -1,0 +1,2 @@
+//分组路由
+PUT http://localhost:8199/api/all
